@@ -1,0 +1,12 @@
+{
+  "cname": "lido",
+  "description": "The Lido DAO governs Lido’s liquid staking protocols.",
+  "path": "lido",
+  "isEnabled": true,
+  "discourseForum": {
+		"url": "https://research.lido.fi/",
+		"categoryId": "9"
+	  },
+  "type": "snapshot"
+
+}

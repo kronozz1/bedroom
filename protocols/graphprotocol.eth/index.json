@@ -1,0 +1,10 @@
+{
+  "cname": "graphprotocol",
+  "description": "",
+  "path": "graphprotocol.eth",
+  "discourseForum": {
+    "url": "https://forum.thegraph.com/",
+    "categoryId": "17"
+  },
+  "isEnabled": true
+}
